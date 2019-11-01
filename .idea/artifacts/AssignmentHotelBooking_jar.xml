@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AssignmentHotelBooking:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AssignmentHotelBooking_jar</output-path>
+    <root id="archive" name="AssignmentHotelBooking.jar">
+      <element id="module-output" name="AssignmentHotelBooking" />
+    </root>
+  </artifact>
+</component>
